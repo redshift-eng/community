@@ -1,8 +1,5 @@
-# 「红移科技」工程师面试指南
+# 「红移科技」技术社区文档
 
-「红移科技」是一个技术驱动型公司，因而良好的工程师文化对于公司和团队来说至关重要。招聘到最合适的工程师则是其中很重要的一部分。这个文档旨在公开分享和传递我们的理念和推崇的文化，同时方便给对面试感兴趣的工程师提供一个参考。
-
-如果你想进一步的了解我们公司，请发送邮件到 hr@redshift.cc。我们期待与你的交流。
 
 ## 我们看重工程师的什么素质
 
@@ -33,9 +30,12 @@
 「红移科技」还处于快速发展的早期阶段，因而每一个员工的加入都尤其的重要。我们希望找到符合我们愿景的朋友一起共事，也希望加入的每一个员工都享受和公司一起成长的过程。
 
 我们的面试为两轮，标准的电话面试和试用工作项目面试。
-- 我们首先将进行45分钟的在线标准技术面试，考察工程师的基本能力。具体的面试方法我们写在了[这里](https://github.com/redshift-eng/interview/blob/master/InterviewGuide/PhoneInterview.md)。
-- 当通过了标准技术面试，你将被邀请参加我们的「试用工作」面试，[这里](https://github.com/redshift-eng/interview/blob/master/InterviewGuide/ProjectInterview.md)是我们项目面试的具体介绍。
+- 我们首先将进行45分钟的在线标准技术面试，考察工程师的基本能力。具体的面试方法我们写在了[这里](https://github.com/redshift-eng/community/blob/master/InterviewGuide/PhoneInterview.md)。
+- 当通过了标准技术面试，你将被邀请参加我们的「试用工作」面试，[这里](https://github.com/redshift-eng/community/blob/master/InterviewGuide/ProjectInterview.md)是我们项目面试的具体介绍。
 
-## 关于本项目 
-项目内容大部分folk于Madadata。
+## 工程师面试指南
+
+「红移科技」是一个技术驱动型公司，因而良好的工程师文化对于公司和团队来说至关重要。招聘到最合适的工程师则是其中很重要的一部分。这个文档旨在公开分享和传递我们的理念和推崇的文化，同时方便给对面试感兴趣的工程师提供一个参考。
+
+如果你想进一步的了解我们公司，请发送邮件到 hr@redshift.cc。我们期待与你的交流。
 
