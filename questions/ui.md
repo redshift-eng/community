@@ -8,7 +8,7 @@
 ### 1）工具使用Sketch或者Axure。
 ### 2）使用对应的Ant.Design的素材库 作为基本素材
 	https://ant.design/docs/resource/download
-### 3）请列出登录流程跳转页面，需要流程通顺（只需要用手机号注册，注册是只用填写用户名和手机即可）。
+### 3）请列出登录流程跳转页面，画出未登录到登陆的所有页面的流程图，需要流程通顺（只需要用手机号注册，注册是只用填写用户名和手机即可）。
 
 ![image](http://redshift.oss-cn-beijing.aliyuncs.com/demo/login.png)
 
