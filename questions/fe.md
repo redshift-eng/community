@@ -15,7 +15,12 @@
 使用下面的代码案例, 把日期选择范围区间设为 当日 至 2017-08-31。
 https://ant.design/components/date-picker/
 
-## Step 4: 
+## Step 4: 实现组件间互动
+将Step 3实现的日期选择放在组件(Component) <RedShiftDatePicker />内，将日期选择器显示的时间显示在模板字符串「当前选择的日期为YYYY-MM-DD」，并将模板写入组件(Component)<RedShiftDateDisplay />内。
+
+![image](http://redshift.oss-cn-beijing.aliyuncs.com/demo/fe-interview.jpeg)
+
+## Step 5:
 注册github账号，把代码上传到github，发送github项目连接
 注意代码、命名规范。
 
