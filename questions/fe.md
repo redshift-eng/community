@@ -23,5 +23,3 @@ https://ant.design/components/date-picker/
 ## Step 5:
 注册github账号，把代码上传到github，发送github项目连接
 注意代码、命名规范。
-
-![image](http://redshift.oss-cn-beijing.aliyuncs.com/tmp/datepicker.png)
