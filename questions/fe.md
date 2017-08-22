@@ -1,25 +1,21 @@
 # 「红移科技」前端面试题
 
 
-## Step 1: 安装nodejs
+## Step 1: css
 
-能启动本地服务器。参考文档：https://nodejs.org/en/
-比如说打开http://localhost:8080，能返回基本页面，如Hello World。
+参照设计图，写出纯css图形
+![image](http://redshift.oss-cn-beijing.aliyuncs.com/demo/fe_interview_v2.0.jpg)
 
-## Step 2: 安装reactjs
+## Step 2: js
 
-参考文档：https://facebook.github.io/react/
-比如说打开http://localhost:8080，用react的模式返回基本页面，如Hello World。
+将箭头组封装为一个函数，并且实现：
+1）输入数据为array，结构如下：
+  >[{"name":"待接单","status":"WAIT_ACCEPT","isShadowed":true},{"name":"待发货","status":"WAIT_DELIVER","isShadowed":true,"isCurrentStatus":true},{"name":"验货入库","status":"STOCK_IN"},{"name":"已完成","status":"DELIVERED"}]
 
-## Step 3: 实现日期选择功能
-使用下面的代码案例, 把日期选择范围区间设为 当日 至 2017-08-31。
-https://ant.design/components/date-picker/
+其中isShadowed表示是否为灰色，isCurrentStatus表示是否为蓝色（当同时为true 显示蓝色）
+2）当有且仅有一个对象，请输出与「已中止」相同的样式
 
-## Step 4: 实现组件间互动 （选做）
-将Step 3实现的日期选择放在组件(Component) <RedShiftDatePicker />内，将日期选择器显示的时间显示在模板字符串「当前选择的日期为YYYY-MM-DD」，并将模板写入组件(Component)<RedShiftDateDisplay />内。
-
-![image](http://redshift.oss-cn-beijing.aliyuncs.com/demo/fe-interview.jpeg)
-
-## Step 5:
-注册github账号，把代码上传到github，发送github项目连接
+## Step 3: 上传到github
+注册github账号，把代码上传到github，发送github项目连接并将成品图截图发送到hr@redshift.cc
 注意代码、命名规范。
+
