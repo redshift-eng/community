@@ -82,7 +82,7 @@ const permissionMap = {
 }
 ```
 
-### 2.权限类别映射映射
+### 3.权限类别映射映射
 ```
 const permissionTypeMap = {
     "BASE": "基础模块",
