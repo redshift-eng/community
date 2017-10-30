@@ -1,6 +1,6 @@
 ## 题目：使用nodeJs框架实现一个API接口
 ### 1）任意nodeJs框架都可以，例如experss、koa等，我公司目前使用koa
-### 2）使用以文档最后提供的数据实现返回权限名称中文映射结构，并完成一个API， 输入输出参数文档最后展示
+### 2）使用以文档最后提供的数据,实现返回权限名称中文映射结构，并完成一个API， 输入输出参数文档最后展示
 ### 3）要求监听端口3000，路由为/permissions
 ### 4）注册github账号，把代码上传到github，发送github项目连接并将成品图截图发送到hr@redshift.cc 注意代码、命名规范
 
@@ -77,8 +77,7 @@ const permissionMap = {
   "READ_INVENTORY_DASHBOARD": "商品统计查看",
   "READ_CONNECTION_DASHBOARD": "供应商统计查看",
   "MANAGE_DEPARTMENT": "部门管理",
-  "MANAGE_USER": "员工管理",
-  "MANAGE_ROLE": "职位管理"
+  "MANAGE_USER": "员工管理"
 }
 ```
 
