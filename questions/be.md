@@ -86,7 +86,8 @@ const permissionTypeMap = {
 ```
 
 ## Step 4 实现接口
-用curl请求http://localhost:3000/permission，成功返回上一步函数的处理结果
+用curl请求http://localhost:3000/permission，
+成功返回上一步函数的处理结果
 
 ## Step 5 上传结果
 注册github账号，把代码上传到github，发送github项目连接并将成品图截图发送到hr@redshift.cc 注意代码、命名规范
