@@ -2,10 +2,13 @@
 ## Step 1: 安装nodejs
 
 能启动本地服务器。参考文档：https://nodejs.org/en/，
-实现打开http://localhost:8080，能返回基本Hello World页面
+实现打开http://localhost:8080，
+能返回基本Hello World页面
 
 ## Step 2：安装koa
-启动本地服务器。参考文档:http://koajs.com/，实现打开http://localhost:8080，能返回基本Hello World页面
+启动本地服务器。参考文档:http://koajs.com/，
+实现打开http://localhost:8080，
+能返回基本Hello World页面
 
 
 ## Step 3 实现一个函数 function mapPermissionName(permissions)
